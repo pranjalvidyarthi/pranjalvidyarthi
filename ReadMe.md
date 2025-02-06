@@ -1,8 +1,12 @@
-# 💫 About Me:
-😎Yes! I am Pranjal Vidyarthi <br> 🔭 I’m currently working on my new 100 days python series<br>🌱 I’m currently learning python, javascript <br>💬 Ask me about Programming <br>⚡ Fun fact I do freelance also Hire me!
+## 💫 About Me:
 
+Hi there! I'm Pranjal Vidyarthi, the creator of Pranjal Tech on YouTube. <br> 🚀 I love coding, sharing knowledge, and building cool projects!<br>
+🔭 Currently working on my 100 Days of Python series.<br>
+🌱 Learning and experimenting with Python, JavaScript, and automation.<br>
+💬 Ask me anything about Programming, Web Development, and Automation.<br>
+⚡ Fun Fact: I also do Freelancing! Hire me! 😎<br>
 
-## 🌐 Socials:
+## 🌐 Connect with Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vansh.x_x.vidyarthi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pranjaltechnology) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pvidyarthi8@gmail.com)  [![twitter](https://x.com/pranjaltech1)]
 
 # 💻 Tech Stack:
@@ -23,5 +27,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pranjalvidyarthi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+🚀 Stay tuned for more awesome projects! Don't forget to follow & star ⭐ my repos. Let's build something amazing together! 💻
 
 
