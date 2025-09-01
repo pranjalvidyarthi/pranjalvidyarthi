@@ -1,6 +1,6 @@
 ## 💫 About Me:
 
-Hi there! I'm Pranjal Vidyarthi, the creator of Pranjal Tech on YouTube. <br> 🚀 I love coding, sharing knowledge, and building cool projects!<br>
+Hi there! I'm Pranjal Vidyarthi, the creator of Pranjal Tech on YouTube. Also known as The Creative Coder.. <br> 🚀 I love coding, sharing knowledge, and building cool projects!<br>
 🔭 Currently working on my 100 Days of Python series.<br>
 🌱 Learning and experimenting with Python, JavaScript, and automation.<br>
 💬 Ask me anything about Programming, Web Development, and Automation.<br>
