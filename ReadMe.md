@@ -116,7 +116,7 @@ const pranjal = {
 
 📌 Currently running: **100 Days of Python Challenge**
 
-[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UC-CHANNEL-ID?style=social)](https://youtube.com/@pranjaltechnology)
+[![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UC-CHANNEL-ID?style=social)](https://youtube.com/@the_creative_coder)
 <!-- YOUTUBE:END -->
 
 </div>
