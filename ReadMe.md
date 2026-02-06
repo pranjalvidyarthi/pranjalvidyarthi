@@ -19,7 +19,7 @@ Hi there! I'm Pranjal Vidyarthi, the creator of Pranjal Tech (The Creative Coder
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Full+Stack+Developer+%7C+Content+Creator;Building+Digital+Solutions;100+Days+of+Python+Challenge;Freelancer+%7C+Tech+Educator)](https://git.io/typing-svg)
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@pranjaltechnology)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@the_creative_coder)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vansh.x_x.vidyarthi)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pranjaltech1)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pranjalvidyarthi.github.io/)
