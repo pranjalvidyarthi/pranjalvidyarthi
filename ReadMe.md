@@ -223,7 +223,77 @@ class FreelanceServices:
 ---
 [![](https://visitcount.itsvg.in/api?id=pranjalvidyarthi&icon=0&color=0)](https://visitcount.itsvg.in)
 
+---
 
+# ❓ Frequently Asked Questions
+
+<details>
+<summary><strong>Who is Pranjal Vidyarthi?</strong></summary>
+
+Pranjal Vidyarthi is also known as **The Creative Coder**.  
+He is a developer, content creator, and freelancer who runs a YouTube channel called **The Creative Coder** where he shares coding projects, programming tutorials, UI experiments, automation projects, and creative tech content.
+
+</details>
+
+<details>
+<summary><strong>What is The Creative Coder?</strong></summary>
+
+The Creative Coder is a tech brand and YouTube channel created by Pranjal Vidyarthi focused on:
+- Web Development
+- Python Projects
+- Automation
+- JavaScript Experiments
+- Creative Coding
+- Tech Content & Tutorials
+
+</details>
+
+<details>
+<summary><strong>What technologies does Pranjal use?</strong></summary>
+
+Pranjal mainly works with:
+- Python
+- JavaScript
+- HTML5
+- CSS3
+- React.js
+- Next.js
+- Node.js
+
+He also explores automation tools and creative frontend development.
+
+</details>
+
+<details>
+<summary><strong>Is Pranjal available for Freelancing?</strong></summary>
+
+Yes 🚀  
+Pranjal is available for:
+- Freelance Projects
+- Website Development
+- Python Automation
+- UI Design
+- Content Collaboration
+
+</details>
+
+<details>
+<summary><strong>What is the 100 Days of Python Challenge?</strong></summary>
+
+It is a challenge where Pranjal builds and shares Python projects consistently to improve skills, help beginners learn programming, and create useful applications.
+
+</details>
+
+<details>
+<summary><strong>Where can I connect with Pranjal?</strong></summary>
+
+- 📺 YouTube: https://youtube.com/@the_creative_coder
+- 📸 Instagram: https://instagram.com/vansh.x_x.vidyarthi
+- 🐦 Twitter/X: https://twitter.com/pranjaltech1
+
+</details>
+
+---
 
 🚀 Stay tuned for more awesome projects! Don't forget to follow & star ⭐ my repos. Let's build something amazing together! 💻
 
