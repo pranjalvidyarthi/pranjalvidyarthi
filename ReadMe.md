@@ -34,7 +34,9 @@ Hi there! I'm Pranjal Vidyarthi, the creator of Pranjal Tech (The Creative Coder
 ### 1. ViChat - A realtime one-to-one chat app.
 <br></br>
 ![Screenshots](https://github.com/pranjalvidyarthi/ViChat/blob/main/screenshots/preview-1.png)
-!()[https://github.com/pranjalvidyarthi/ViChat/blob/main/screenshots/preview-2.png]
+
+### 2. CodeVault - Webs Design
+![Screenshots](https://github.com/pranjalvidyarthi/CodeVault/blob/main/preview.png)
 
 ## 🎯 MISSION CONTROL
 
