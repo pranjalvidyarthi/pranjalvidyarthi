@@ -1,7 +1,7 @@
 ## 💫 About Me:
 
 Hi there! I'm Pranjal Vidyarthi, the creator of Pranjal Tech (The Creative Coder) on YouTube. Also known as The Creative Coder.. <br> 🚀 I love coding, sharing knowledge, and building cool projects!<br>
-🔭 Currently working on my 100 Days of Python series.<br>
+🔭 Currently working on my YouTube Channel.<br>
 🌱 Learning and experimenting with Python, JavaScript, and automation.<br>
 💬 Ask me anything about Programming, Web Development, and Automation.<br>
 ⚡ Fun Fact: I also do Freelancing! Hire me! 😎<br>
@@ -190,16 +190,6 @@ class FreelanceServices:
 
 ---
 
-## 🎮 PROFILE VISITORS
-
-<div align="center">
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=pranjalvidyarthi&label=Mission%20Control%20Visitors&color=6&icon=5&pretty=true)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💫 "Code is like humor. When you have to explain it, it's bad." - Cory House
@@ -208,28 +198,10 @@ class FreelanceServices:
 
 **⭐ Star my repos if you find them useful! Let's connect and build the future together! 🚀**
 
-*Made with 💙 by The Creative Coder*
-
-[![GitHub followers](https://img.shields.io/github/followers/pranjalvidyarthi?style=social)](https://github.com/pranjalvidyarthi)
-[![GitHub stars](https://img.shields.io/github/stars/pranjalvidyarthi?style=social)](https://github.com/pranjalvidyarthi)
-
-</div>
-
-![](https://github-readme-stats.vercel.app/api?username=pranjalvidyarthi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pranjalvidyarthi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalvidyarthi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pranjalvidyarthi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pranjalvidyarthi&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=pranjalvidyarthi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
